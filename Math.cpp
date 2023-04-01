@@ -61,7 +61,3 @@ int intPower(int base,int exp){
 	}
 	return num;
 }
-int main(){
-
-return 0;
-}
